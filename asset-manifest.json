@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/temp/static/css/main.77eda6ad.css",
-    "main.js": "/temp/static/js/main.c2b2d27f.js",
+    "main.js": "/temp/static/js/main.b76a2cf3.js",
     "static/js/787.ae6c1f4d.chunk.js": "/temp/static/js/787.ae6c1f4d.chunk.js",
     "static/media/binokl.mp4": "/temp/static/media/binokl.1cbff924471bfdf0a520.mp4",
     "static/media/concert-18.jpg": "/temp/static/media/concert-18.c363883f01f6ce6d0553.jpg",
@@ -47,7 +47,7 @@
     "static/media/concert-05.jpg": "/temp/static/media/concert-05.8c6acf9aa34a4a3eefc6.jpg",
     "static/media/concert-11.webp": "/temp/static/media/concert-11.a8c7feea68a992537c0a.webp",
     "static/media/lsp-and-pharaoh.webp": "/temp/static/media/lsp-and-pharaoh.fe60419ffe960a01b473.webp",
-    "static/media/young-lsp.jpg": "/temp/static/media/young-lsp.c4b19b528085fc4accb8.jpg",
+    "static/media/youth.jpg": "/temp/static/media/youth.c4b19b528085fc4accb8.jpg",
     "static/media/10-negrityat.jpg": "/temp/static/media/10-negrityat.20dc3b29e5b1f11a40a9.jpg",
     "static/media/ubiytsa-svin.jpg": "/temp/static/media/ubiytsa-svin.6e61c4cee713d1f8991f.jpg",
     "static/media/khiona.jpg": "/temp/static/media/khiona.b3e2b0b2d5b90bd7e3f7.jpg",
@@ -90,7 +90,7 @@
     "static/media/malenkiy-malchik-2-0.jpg": "/temp/static/media/malenkiy-malchik-2-0.483eed3cbcd80fbb774e.jpg",
     "static/media/nikogda.jpg": "/temp/static/media/nikogda.65433716ced623a9ca9e.jpg",
     "static/media/net-tebya.jpg": "/temp/static/media/net-tebya.e6e1d0021188622c0b13.jpg",
-    "static/media/young-lsp.webp": "/temp/static/media/young-lsp.d424fcdede3e59b97bd1.webp",
+    "static/media/youth.webp": "/temp/static/media/youth.d424fcdede3e59b97bd1.webp",
     "static/media/patron.jpg": "/temp/static/media/patron.f4c5c105d4f0a522bcaa.jpg",
     "static/media/clouny.avif": "/temp/static/media/clouny.169a4380274a91bb626d.avif",
     "static/media/amneziya-remix.avif": "/temp/static/media/amneziya-remix.0ecbe4a1da0dddc80c34.avif",
@@ -282,11 +282,11 @@
     "static/media/getFetch.cjs": "/temp/static/media/getFetch.40f37ddea2378391108f.cjs",
     "static/media/dor-blyu.avif": "/temp/static/media/dor-blyu.fa585c555bb79557d4c3.avif",
     "main.77eda6ad.css.map": "/temp/static/css/main.77eda6ad.css.map",
-    "main.c2b2d27f.js.map": "/temp/static/js/main.c2b2d27f.js.map",
+    "main.b76a2cf3.js.map": "/temp/static/js/main.b76a2cf3.js.map",
     "787.ae6c1f4d.chunk.js.map": "/temp/static/js/787.ae6c1f4d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.77eda6ad.css",
-    "static/js/main.c2b2d27f.js"
+    "static/js/main.b76a2cf3.js"
   ]
 }
