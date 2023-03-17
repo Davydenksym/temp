@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/temp/static/css/main.77eda6ad.css",
-    "main.js": "/temp/static/js/main.9dcf74d5.js",
+    "main.js": "/temp/static/js/main.c4d7707d.js",
     "static/js/787.ae6c1f4d.chunk.js": "/temp/static/js/787.ae6c1f4d.chunk.js",
     "static/media/binokl.mp4": "/temp/static/media/binokl.1cbff924471bfdf0a520.mp4",
     "static/media/concert-18.jpg": "/temp/static/media/concert-18.c363883f01f6ce6d0553.jpg",
@@ -282,11 +282,11 @@
     "static/media/getFetch.cjs": "/temp/static/media/getFetch.40f37ddea2378391108f.cjs",
     "static/media/dor-blyu.avif": "/temp/static/media/dor-blyu.fa585c555bb79557d4c3.avif",
     "main.77eda6ad.css.map": "/temp/static/css/main.77eda6ad.css.map",
-    "main.9dcf74d5.js.map": "/temp/static/js/main.9dcf74d5.js.map",
+    "main.c4d7707d.js.map": "/temp/static/js/main.c4d7707d.js.map",
     "787.ae6c1f4d.chunk.js.map": "/temp/static/js/787.ae6c1f4d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.77eda6ad.css",
-    "static/js/main.9dcf74d5.js"
+    "static/js/main.c4d7707d.js"
   ]
 }
